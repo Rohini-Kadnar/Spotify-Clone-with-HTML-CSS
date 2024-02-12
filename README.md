@@ -1,1 +1,1 @@
-# Spotify-Clone-with-HTML-CSS-
+# Spotify-Clone-with-HTML and CSS
